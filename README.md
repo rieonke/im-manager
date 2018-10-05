@@ -1,6 +1,12 @@
 # im-manager
 Cross platform input source manager for Windows/macOS/Linux(ibus/fcitx/XIM)
 
+# Current Progress
+* [x] macOS
+* [x] ibus (Linux)
+* [x] fcitx(Linux)
+* [ ] Windows
+
 # Bindings
 * [x] [Java](https://github.com/rieonke/im-manager/tree/master/binding/im-manager-jvm)
 * [ ] Python
