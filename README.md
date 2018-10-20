@@ -10,7 +10,7 @@ Cross platform input source manager for Windows/macOS/Linux(ibus/fcitx/XIM)
 # Bindings
 * [x] [Java](https://github.com/rieonke/im-manager/tree/master/binding/im-manager-jvm)
 * [ ] Python
-* [ ] NodeJS
+* [x] [NodeJS](https://github.com/rieonke/im-manager/tree/master/binding/im-manager-node)
 
 # Usages
 ## Building from source
