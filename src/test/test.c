@@ -31,6 +31,7 @@ int main() {
 
 
   //    for (int j = 0; j < 10; ++j) {
+  setlocale(LC_ALL,"en_US.utf8");
 
   imm_input_source_list *isl = imm_get_input_source_list();
 
